@@ -6,6 +6,9 @@ The game generates a random number between 1 to 100 and tracks user attempts and
 Restart game functionality
 <br>
 Tech Stack
+<br>
 *HTML* - Structure of the game
+<br>
 *CSS* - Styling and layout
+<br>
 *JavaScript* - Game logic and interactivity
